@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Somos do Brasil<br><br>- 🔭 Trabalhamos como um Estúdio de Design e Tecnologia<br>- 🎯 Utilizamos design estratégico e tecnologia para comunicar com clareza e fortalecer marcas.<br>- 📩 Alavank sua identidade. Entre em contato!</p>
+<p align="left">Somos do Brasil<br><br>- 🔭 Trabalhamos como um Estúdio de Design e Tecnologia.<br>- 🎯 Utilizamos design estratégico e tecnologia para comunicar com clareza e fortalecer marcas.<br>- 📩 Alavank sua identidade. Entre em contato!</p>
 
 ###
 
